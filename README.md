@@ -47,6 +47,6 @@ Uma aplicação simples para calcular o **IMC (Índice de Massa Corporal)** feit
 
 👨‍💻 (https://calc-imc-dev.netlify.app/)
 📧 [esheleyruane@gmail.com]
-🔗 [LinkedIn]([https://www.linkedin.com/in/esheley-ruane-99b391244/])
+🔗 [LinkedIn]( https://www.linkedin.com/in/esheley-ruane-99b391244/ )
 
 ---
